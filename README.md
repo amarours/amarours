@@ -1,6 +1,5 @@
-### Olá a todos!!! 
+### Olá a todos Bruno aqui!!!
 
-My name is Bruno and I from Brazil!
 
 <div align="center">
   <a href="https://github.com/amarours">
