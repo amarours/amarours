@@ -1,5 +1,7 @@
-### Olá a todos!!!
+### Olá a todos!!! 
 
+My name is Bruno and I from Brazil
+-----------------------------------------------------------------------------------
 - 🔭 I’m currently working on infraestructure TI.
 - 🌱 I’m currently learning html and css.
 - 👯 I’m looking to collaborate on Yazaki do Brasil ltda.
