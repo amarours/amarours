@@ -1,17 +1,9 @@
 ### Olá a todos!!! 
 
-My name is Bruno and I from Brazil
------------------------------------------------------------------------------------
-- 🔭 I’m currently working on infraestructure TI.
-- 🌱 I’m currently learning html and css.
-- 👯 I’m looking to collaborate on Yazaki do Brasil ltda.
-- 🤔 I’m looking for help with codes from html and more.
-- 💬 Ask me about games, coding and design jobs.
-- 📫 How to reach me: check my instagram @amarours
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: printers are so bad lol.
--->
+My name is Bruno and I from Brazil!
 
-<div>
-  <a href="https://github.com/amarours">
-  <img heigth="180em" 
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
